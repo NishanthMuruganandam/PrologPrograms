@@ -1,0 +1,5 @@
+parent(john,paul).
+parent(mary,paul).
+edge(1,2).
+
+
